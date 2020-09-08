@@ -1,0 +1,21 @@
+.orange{
+  color: #ffa500;
+  }
+  .mass{
+    display: flex;
+    margin-bottom: 50px;
+  }
+  .picture{
+    display: column;
+    padding-top: 15px;
+    display: inline-block;
+    margin-right: 15px;
+    margin: 0 auto;
+  }
+  .mass img{
+    width: 50%;
+    margin :10px 10px ;
+  }
+  .picture img{
+    width: 80%;
+  }
